@@ -24,3 +24,4 @@ for x in all_words:
             dict1[x] = 1
 
 print(dict1)
+print("Total number of distinct characters : ",len(dict1))
